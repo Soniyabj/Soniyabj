@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently learning 
+I'm tech enthusiastic 
+I'm currently learning on product development
 
 
 ## 🌐 Socials:
