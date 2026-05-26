@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm tech enthusiastic 
-I'm currently learning on product development
+Hi I'm Soniya B J, an Information Science Engineering student passionate about Full Stack Development, AI/ML, and Mobile App Development.  
+Skilled in React, Flutter, Python, Node.js, and Machine Learning technologies.  Built AI-powered, automation, and mobile app projects with real-world applications.Currently exploring DevOps, Cloud Computing, and Open Source contributions.
 
 
 ## 🌐 Socials:
