@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Soniya B J, an Information Science Engineering student passionate about Full Stack Development, AI/ML, and Mobile App Development.  
+Hi I'm Soniya BJ, an Information Science Engineering student passionate about Full Stack Development, AI/ML, and Mobile App Development.  
 Skilled in React, Flutter, Python, Node.js, and Machine Learning technologies.  Built AI-powered, automation, and mobile app projects with real-world applications.Currently exploring DevOps, Cloud Computing, and Open Source contributions.
 
 
