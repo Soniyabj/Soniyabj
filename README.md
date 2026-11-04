@@ -91,25 +91,48 @@ Read more on my [Personal Blog](https://sbjinsights.blogspot.com/).
 
 ## 📊 GitHub Statistics
 
+
+---
+
+<!-- <h2 align="center">📊 GitHub Statistics</h2> -->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniyabj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=soniyabj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=soniyabj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=soniyabj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soniyabj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=soniyabj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
+
+
 ## 🏆 GitHub Achievements
 
+
+---
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <i>A showcase of my open-source contributions and GitHub journey.</i>
+</p>
+
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=soniyabj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
-
+  <img
+    src="https://trophy.ryglcloud.net/?username=soniyabj&theme=tokyonight&no-frame=true&no-bg=true&column=6"
+    alt="Soniya's GitHub Trophies"
+    width="100%"
+  />
 </div>
+
+---
+
 
 ---
 
