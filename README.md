@@ -4,8 +4,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Flutter+%26+Dart+Enthusiast;AI%2FML+Explorer;Building+Agentic+AI+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;AI%2FML+Explorer;Building+Agentic+AI+Systems;Programming+%26+Cloud+Technologies" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,dart,python,gcp"
+       height="35"
+       alt="React, Node.js, Flutter, Dart, Python and Google Cloud"/>
 </p>
 
 *Building ideas into solutions through technology and continuous learning.*
