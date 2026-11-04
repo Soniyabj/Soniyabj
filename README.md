@@ -160,9 +160,9 @@ Read more on my [Personal Blog](https://sbjinsights.blogspot.com/).
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=soniyabj&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soniyabj&theme=tokyonight"
     width="100%"
-    alt="GitHub Activity Graph"
+    alt="GitHub Profile Activity Summary"
   />
 </p>
 
@@ -216,12 +216,10 @@ Read more on my [Personal Blog](https://sbjinsights.blogspot.com/).
 
 </div>
 
----
 
 <div align="center">
 
 ### ✨ Learn. Build. Innovate. Repeat.
-
 *Learning continuously, building consistently, and growing every day.*
 
 </div>
