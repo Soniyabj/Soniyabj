@@ -98,43 +98,44 @@ Read more on my [Personal Blog](https://sbjinsights.blogspot.com/).
 
 ---
 
+
+---
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
+<!-- GitHub Streak -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=soniyabj&theme=tokyonight&hide_border=true"
+    width="75%"
+    alt="GitHub Streak"
+  />
+</p>
 
-<!-- Current Streak - Top -->
-<img
-  src="https://streak-stats.demolab.com/?user=soniyabj&theme=tokyonight&hide_border=true"
-  width="75%"
-  alt="GitHub Streak"
-/>
+<br/>
 
-<br/><br/>
+<!-- GitHub Stats -->
 
-<!-- Two Equal-Sized Cards -->
-<table width="100%" align="center">
-<tr>
-<td width="50%" align="center">
-<img
-  src="https://github-stats-extended.vercel.app/api?username=soniyabj&show_icons=true&theme=tokyonight&hide_border=true&card_width=420"
-  width="100%"
-  height="190"
-  alt="GitHub Statistics"
-/>
-</td>
+<!-- GitHub Statistics - Equal Width Cards -->
 
-<td width="50%" align="center">
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=soniyabj&layout=compact&theme=tokyonight&hide_border=true&card_width=420"
-  width="150%"
-  height="190"
-  alt="Top Languages"
-/>
-</td>
-</tr>
-</table>
 
-</div>
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=soniyabj&show_icons=true&theme=tokyonight&hide_border=true&card_width=420&line_height=35"
+    width="48%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=soniyabj&layout=compact&theme=tokyonight&hide_border=true&card_width=420&langs_count=10"
+    width="48%"
+    alt="Top Languages"
+  />
+</p>
+
+
+
+---
+
 
 
 
