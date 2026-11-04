@@ -3,11 +3,23 @@
 
 # Hi 👋, I'm Soniya BJ
 
-### Aspiring Software Developer | AI Explorer | Problem Solver
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Flutter+%26+Dart+Enthusiast;AI%2FML+Explorer;Building+Agentic+AI+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
 *Building ideas into solutions through technology and continuous learning.*
 
-<img src="https://komarev.com/ghpvc/?username=soniyabj&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views"/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=soniyabj&color=bb9af7&style=flat" alt="Profile Views"/>
+</div>
+
+
+
+
+
 
 </div>
 
