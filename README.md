@@ -104,6 +104,12 @@
 
 ### 📊 GitHub Statistics
 
+
+
+---
+
+<h3 align="center">📊 GitHub Statistics</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soniyabj&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -115,6 +121,25 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soniyabj&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
+
+<p align="center">
+  <i>✨ Learning continuously, building consistently, and growing every day.</i>
+</p>
+
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soniyabj&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soniyabj&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soniyabj&theme=tokyonight" alt="GitHub Streak" />
+</p> -->
 
 ---
 
