@@ -7,18 +7,21 @@
   <img src="https://komarev.com/ghpvc/?username=soniyabj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=soniyabj&theme=algolia&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-  </a>
-</p>
+
+<h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <a href="https://twitter.com/soniya_bj">
-    <img src="https://img.shields.io/twitter/follow/soniya_bj?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=soniyabj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies" />
 </p>
 
+
+<p align="center">
+  <a href="https://x.com/soniya_bj" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+         alt="X" width="25" height="25" />
+    <strong> Follow me on X</strong>
+  </a>
+</p>
 ---
 
 ### 👩‍💻 About Me
@@ -105,11 +108,6 @@
 ### 📊 GitHub Statistics
 
 
-
----
-
-<h3 align="center">📊 GitHub Statistics</h3>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soniyabj&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -143,6 +141,4 @@
 
 ---
 
-<p align="center">
-  <i>✨ Learning continuously, building consistently, and growing every day.</i>
-</p>
+
