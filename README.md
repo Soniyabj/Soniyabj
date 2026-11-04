@@ -92,23 +92,49 @@ Read more on my [Personal Blog](https://sbjinsights.blogspot.com/).
 ## 📊 GitHub Statistics
 
 
+
 ---
 
-<!-- <h2 align="center">📊 GitHub Statistics</h2> -->
+
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<img width="48%" src="https://github-stats-extended.vercel.app/api?username=soniyabj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+<!-- Current Streak - Top -->
+<img
+  src="https://streak-stats.demolab.com/?user=soniyabj&theme=tokyonight&hide_border=true"
+  width="75%"
+  alt="GitHub Streak"
+/>
 
-<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=soniyabj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<br/><br/>
 
-<br/>
+<!-- Two Equal-Sized Cards -->
+<table width="100%" align="center">
+<tr>
+<td width="50%" align="center">
+<img
+  src="https://github-stats-extended.vercel.app/api?username=soniyabj&show_icons=true&theme=tokyonight&hide_border=true&card_width=420"
+  width="100%"
+  height="190"
+  alt="GitHub Statistics"
+/>
+</td>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=soniyabj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<td width="50%" align="center">
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=soniyabj&layout=compact&theme=tokyonight&hide_border=true&card_width=420"
+  width="150%"
+  height="190"
+  alt="Top Languages"
+/>
+</td>
+</tr>
+</table>
 
 </div>
-
----
 
 
 
