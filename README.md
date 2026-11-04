@@ -1,5 +1,4 @@
- 
-<div align="center">
+ <div align="center">
 
 # Hi 👋, I'm Soniya BJ
 
@@ -11,15 +10,7 @@
 
 *Building ideas into solutions through technology and continuous learning.*
 
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=soniyabj&color=bb9af7&style=flat" alt="Profile Views"/>
-</div>
-
-
-
-
-
+<img src="https://komarev.com/ghpvc/?username=soniyabj&color=bb9af7&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -30,7 +21,34 @@
 - 🔭 Currently working on **Agentic AI for Smart Event Management Operations**
 - 🌱 Exploring **Artificial Intelligence, Full-Stack Development and Cloud Computing**
 - 📝 Sharing my learning journey on my [Personal Blog](https://sbjinsights.blogspot.com/)
+- 💡 Interested in building practical software solutions and learning new technologies
 - 📫 Contact: **soniyabj99@gmail.com**
+
+---
+
+## 🖥️ Developer Snapshot
+
+```bash
+soniya@github:~$ whoami
+
+Information Science & Engineering Student
+Aspiring Software Developer
+
+soniya@github:~$ interests
+
+Python | Full-Stack Development
+Artificial Intelligence | Cloud Computing
+
+soniya@github:~$ currently_learning
+
+Agentic AI | Problem Solving | Cloud Technologies
+
+soniya@github:~$ mission
+
+Build. Learn. Improve. Repeat.
+
+soniya@github:~$ _
+```
 
 ---
 
@@ -63,31 +81,31 @@
 **Programming Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,js,dart" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,c,js,dart" alt="Programming Languages"/>
 </p>
 
 **Frontend & Backend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,react,nodejs,express,flutter" alt="Frontend and Backend"/>
+  <img src="https://skillicons.dev/icons?i=html,react,nodejs,express,flutter" alt="Frontend and Backend"/>
 </p>
 
 **Database & Cloud**
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,gcp,docker" alt="Database and Cloud"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,gcp,docker" alt="Database and Cloud"/>
 </p>
 
 **Tools & Machine Learning**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,opencv,pytorch,tensorflow,sklearn" alt="Tools and Machine Learning"/>
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,opencv,pytorch,tensorflow,sklearn" alt="Tools and Machine Learning"/>
 </p>
 
 **Other Technologies**
 
 <p>
-<img src="https://skillicons.dev/icons?i=android,selenium" alt="Other Technologies"/>
+  <img src="https://skillicons.dev/icons?i=android,selenium" alt="Other Technologies"/>
 </p>
 
 ---
@@ -103,19 +121,6 @@ Read more on my [Personal Blog](https://sbjinsights.blogspot.com/).
 
 ## 📊 GitHub Statistics
 
-
-
----
-
-
----
-
-
----
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<!-- GitHub Streak -->
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=soniyabj&theme=tokyonight&hide_border=true"
@@ -123,13 +128,6 @@ Read more on my [Personal Blog](https://sbjinsights.blogspot.com/).
     alt="GitHub Streak"
   />
 </p>
-
-<br/>
-
-<!-- GitHub Stats -->
-
-<!-- GitHub Statistics - Equal Width Cards -->
-
 
 <p align="center">
   <img
@@ -144,34 +142,67 @@ Read more on my [Personal Blog](https://sbjinsights.blogspot.com/).
   />
 </p>
 
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soniyabj/soniyabj/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soniyabj/soniyabj/output/github-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/soniyabj/soniyabj/output/github-snake.svg"/>
+  </picture>
+</p>
 
 ---
 
+## 📈 GitHub Activity Graph
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=soniyabj&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
+---
+
+## 🧩 LeetCode Journey
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/soniyabj?theme=dark&font=Karla&ext=heatmap"
+    alt="LeetCode Statistics"
+  />
+</p>
+
+---
 
 ## 🏆 GitHub Achievements
-
-
----
-
-<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
   <i>A showcase of my open-source contributions and GitHub journey.</i>
 </p>
 
-<div align="center">
+<p align="center">
   <img
     src="https://trophy.ryglcloud.net/?username=soniyabj&theme=tokyonight&no-frame=true&no-bg=true&column=6"
     alt="Soniya's GitHub Trophies"
     width="100%"
   />
-</div>
+</p>
 
 ---
 
+## 💬 Developer Inspiration
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Developer Quote"
+  />
+</p>
 
 ---
 
