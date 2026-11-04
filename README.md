@@ -133,7 +133,7 @@ Read more on my [Personal Blog](https://sbjinsights.blogspot.com/).
     width="75%"
     alt="GitHub Streak"
   />
-</p>
+</p> 
 
 <p align="center">
   <img
