@@ -121,7 +121,7 @@ soniya@github:~$ _
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-Read more on my [Personal Blog](https://sbjinsights.blogspot.com/).
+Read more on my [Personal Blog sbjinsights](https://sbjinsights.blogspot.com/).
 
 ---
 
