@@ -26,7 +26,7 @@
 
 - 🔭 Currently working on **Agentic AI for Smart Event Management Operations**
 - 🌱 Exploring **Artificial Intelligence, Full-Stack Development and Cloud Computing**
-- 📝 Sharing my learning journey on my [Personal Blog](https://sbjinsights.blogspot.com/)
+- 📝 Sharing my learning journey on my [Personal Blog (sbjinsights) ](https://sbjinsights.blogspot.com/)
 - 💡 Interested in building practical software solutions and learning new technologies
 - 📫 Contact: **soniyabj99@gmail.com**
 
