@@ -32,31 +32,6 @@
 
 ---
 
-## 🖥️ Developer Snapshot
-
-```bash
-soniya@github:~$ whoami
-
-Information Science & Engineering Student
-Aspiring Software Developer
-
-soniya@github:~$ interests
-
-Python | Full-Stack Development
-Artificial Intelligence | Cloud Computing
-
-soniya@github:~$ currently_learning
-
-Agentic AI | Problem Solving | Cloud Technologies
-
-soniya@github:~$ mission
-
-Build. Learn. Improve. Repeat.
-
-soniya@github:~$ _
-```
-
----
 
 ## 🌐 Connect With Me
 
@@ -146,18 +121,6 @@ Read more on my [Personal Blog sbjinsights](https://sbjinsights.blogspot.com/).
     width="48%"
     alt="Top Languages"
   />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soniyabj/soniyabj/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soniyabj/soniyabj/output/github-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/soniyabj/soniyabj/output/github-snake.svg"/>
-  </picture>
 </p>
 
 ---
